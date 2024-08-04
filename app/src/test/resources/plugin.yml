@@ -1,0 +1,8 @@
+name: MediaTools
+main: dev.mcyoinet.mediatools.MediaTools
+version: 1.0.0
+
+description: Link your YouTube or Twitch account and announce when a video or stream is out!
+authors: [McYoinet]
+
+softdepend: [PlaceholderAPI]
